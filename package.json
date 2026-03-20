@@ -1,0 +1,21 @@
+{
+    "author": "kylejaure@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "knitting-counter",
+    "pebble": {
+        "displayName": "Knitting Counter",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "3c22e9b9-0049-481a-9327-908d644beecd",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
